@@ -1,4 +1,4 @@
-## Hi, I'm Josh!
+## Hi, I'm Josh
 
 #I'm a software engineer with a passion for creating interactive experiences.
 
