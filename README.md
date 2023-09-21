@@ -23,4 +23,4 @@
 - Diving deeper into back-end architecture 🏗️
 - Always open to picking up new languages and frameworks 📚
 
-- 🌐 Portfolio: [Here](www.joshgreen.tech)
+- 🌐 Portfolio: [Here](https://www.joshgreen.tech)
