@@ -1,6 +1,6 @@
 👋 Hey there, I'm Josh ! 
 
-🍸 **By Night:** Master of mixology, shaking and stirring up cocktails.  
+🍸 **By Night:** Master of Alcohol Alchemy, shaking and stirring up cocktails.  
 💻 **By Day:** Coding wizard, weaving spells in React, Node.js, and Three.js.  
 
 ## 🛠️ Tech Stack
